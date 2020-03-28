@@ -10,4 +10,10 @@ def display_board(board)
   puts ("   |   |   ")
 
   board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
+  puts ("   |   |   ")
+  puts ("-----------")
+  puts ("   | X |   ")
+  puts ("-----------")
+  puts ("   |   |   ")
+
 end
