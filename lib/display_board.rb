@@ -10,4 +10,6 @@ def display_board(board)
   puts rows[3]
   puts rows[4]
 
+  rows[2] = ("   | X |   ")
+
 end
