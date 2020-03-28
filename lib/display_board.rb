@@ -8,4 +8,7 @@ def display_board(board)
   rows[2] = ("   |   |   ")
   rows[3] = ("-----------")
   rows[4] = ("   |   |   ")
+
+  puts board
+  puts rows
 end
