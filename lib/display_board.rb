@@ -3,5 +3,7 @@
 def display_board(board)
   rows = ["   |   |   "]
 
+  puts rows[0]
+
 
 end
